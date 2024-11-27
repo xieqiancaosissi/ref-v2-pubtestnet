@@ -1,0 +1,11 @@
+{
+  "background_color": "#9EFF00",
+  "display": "fullscreen",
+  "icons": [
+    { "sizes": "192x192", "src": "/192Px.png", "type": "image/png" },
+    { "sizes": "512x512", "src": "/512PX.png", "type": "image/png" }
+  ],
+  "name": "REF Finance",
+  "short_name": "REF Finance",
+  "theme_color": "#9EFF00"
+}
